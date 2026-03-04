@@ -3,22 +3,16 @@ programa {
    
     escreva("*** SISTEMA DE NOTAS ESCOLARES ***\n\n")
 
-
     // DECLARANDO A VARIÁVEl  
-
 
     inteiro nota
 
-
     // RECEBENDO VALORES
-
 
     escreva("Informe a sua nota: ")
     leia(nota)
 
-
     // SAÍDA
-
 
     se (nota >= 90 e nota <= 100) {
       escreva("Nota: A+")
